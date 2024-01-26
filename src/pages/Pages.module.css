@@ -1,0 +1,8 @@
+.transparentBtn{
+    background: transparent;
+    border: none;
+    outline: none;
+}
+.thin{
+    border-right: rem(2.5px) solid var(--mantine-color-default-border);
+}
